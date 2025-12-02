@@ -78,6 +78,3 @@ EDIP represents a fundamental shift in how your company interacts with data. Imm
 * **Increased Data Literacy** across all management levels.
 * **Secure, governed access** to critical information.
 
-## ⚙️ Installation / Getting Started
-
-*(You would typically add instructions here for cloning the repository, installing dependencies, and running the backend/frontend.)*
