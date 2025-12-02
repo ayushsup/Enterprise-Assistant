@@ -1,7 +1,7 @@
 # 🌐 Enterprise Data Intelligence Platform (EDIP): The Conversational BI Solution
 
 ![Platform Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-blue?style=for-the-badge)
-![AI Core: Google Gemini 2.5 Flash](https://img.shields.io/badge/AI%20Core-Gemini%201.5%20Flash-red?style=for-the-badge)
+![AI Core: Google Gemini 2.5 Flash](https://img.shields.io/badge/AI%20Core-Gemini%202.5%20Flash-red?style=for-the-badge)
 ![Framework: LangChain](https://img.shields.io/badge/Framework-LangChain-brightgreen?style=for-the-badge)
 
 ## 💡 Executive Summary: The Data Analyst Bottleneck Solved
